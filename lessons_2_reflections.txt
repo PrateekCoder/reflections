@@ -1,0 +1,6 @@
+Q1.) What happens when you initialize a repository? Why do you need to do it?
+When we initialize a repository, a new .git file is added to the directory, which maintains a record of all the changes we make, basically all the commits we create.
+
+Q2.)How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is something which is not permanent, it is a kind of partial area where is data is stored only until the commit is done, once the commit is done, that staging area is vanishes.
+It has a very important value as we can create commit for more than one files at same time, if this area would not have been there making commits for more than 1 file would not have been possible.
