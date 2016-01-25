@@ -1,0 +1,3 @@
+Q1.) When would you want to use a remote repository rather than keeping all your work local?
+Well using remote repository is going to be of great use if we are working on a software where there are 5-10 members in the group
+so all can work on different tasks or even on the same file with differen ideas.
